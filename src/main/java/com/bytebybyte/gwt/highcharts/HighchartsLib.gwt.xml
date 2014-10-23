@@ -1,0 +1,12 @@
+<module>
+
+	<!-- Required modules -->
+	<inherits name="com.bytebybyte.gwt.jquery.JQueryLib" />
+
+	<!-- Source paths. -->
+	<source path="client" />
+
+	<!-- Entry point -->
+	<entry-point class="com.bytebybyte.gwt.highcharts.client.HighchartsLibConfigurerEntryPoint" />
+
+</module>
