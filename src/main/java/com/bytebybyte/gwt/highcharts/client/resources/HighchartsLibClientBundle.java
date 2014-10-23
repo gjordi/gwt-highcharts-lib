@@ -8,7 +8,6 @@ public interface HighchartsLibClientBundle extends ClientBundle {
 
 	public final static HighchartsLibClientBundle INSTANCE = GWT.create(HighchartsLibClientBundle.class);
 
-	@Source("highcharts/js/highcharts.min.js")
+	@Source("highcharts/js/highcharts-all.js")
 	TextResource highcharts();
-
 }
