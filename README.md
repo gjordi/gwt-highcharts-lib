@@ -5,9 +5,15 @@ gwt-highcharts-lib
 
 # Usage
 
-Add the dependency to your Maven POM:
+Add the dependencies to your Maven POM:
 
 ```xml
+<dependency>
+	<groupId>com.bytebybyte.gwt</groupId>
+	<artifactId>jquery-lib</artifactId>
+	<version>2.1.1</version>
+	<scope>provided</scope>
+</dependency>
 <dependency>
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>highcharts-lib</artifactId>
