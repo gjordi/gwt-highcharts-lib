@@ -11,7 +11,7 @@ Add the dependencies to your Maven POM:
 <dependency>
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>jquery-lib</artifactId>
-	<version>2.1.1</version>
+	<version>2.1.3</version>
 	<scope>provided</scope>
 </dependency>
 <dependency>
